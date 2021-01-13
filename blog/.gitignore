@@ -6,12 +6,7 @@
 
 # Ignore bundler config.
 /.bundle
-
-<<<<<<< HEAD
 # Ignore the default mysql2 database.
-=======
-# Ignore the default SQLite database.
->>>>>>> 017fa62... Chapter_6: MODELING USERS
 /db/*.mysql2
 /db/*.mysql2-*
 
