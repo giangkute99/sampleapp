@@ -6,8 +6,7 @@
 
 # Ignore bundler config.
 /.bundle
-
-# Ignore the default SQLite database.
+# Ignore the default mysql2 database.
 /db/*.mysql2
 /db/*.mysql2-*
 
